@@ -1,0 +1,264 @@
+---
+title: "Introduction"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(BL22204010)
+```
+
+
+
+
+
+## Bayesian Inferecial with Gaussian Processes in Nonstationary Bandit problems
+
+To find the reward for each arm at each round in a **non-stationary multi-armed bandit problem**, the rewards are generated dynamically based on the following process to maximize the reward:
+
+## 1. Initialization
+Assign an initial mean \(\mu_i(0)\) for each arm \(i\), where:
+\[
+\mu_i(0) = \text{Random Value or Provided Initial Mean}.
+\]
+
+## 2. Reward Generation
+At each round \(t\), for each arm \(i\), sample the reward \(R_i(t)\) using a normal distribution:
+\[
+R_i(t) \sim \mathcal{N}(\mu_i(t), \sigma^2)
+\]
+where:
+
+ 
+ - \(\mu_i(t)\): Mean for arm \(i\) at time \(t\),
+ - \(\sigma\): Standard deviation of the rewards (constant across arms).
+
+
+## 3. Mean Update
+After generating the reward for round \(t\), update the mean \(\mu_i(t)\) for each arm using a Gaussian drift:
+\[
+\mu_i(t+1) = \mu_i(t) + \mathcal{N}(0, \delta^2)
+\]
+where:
+
+
+ - \(\mathcal{N}(0, \delta^2)\): A Gaussian noise term (drift) with mean \(0\) and variance \(\delta^2\), which introduces non-stationarity.
+
+
+ - Continue the process for all rounds (\(t = 1, 2, \dots, T\)) and all arms (\(i = 1, 2, \dots, N\)) to maximize the reward in the arms.
+
+
+
+
+
+```{r}
+# Step-by-Step R Implementation
+
+# 1. Initialization
+set.seed(123) # For reproducibility
+
+N <- 5      # Number of arms
+T <- 100    # Number of rounds
+sigma <- 1  # Standard deviation of the rewards
+delta <- 0.1 # Drift standard deviation
+
+# Initial means for each arm (can be random or provided)
+mu <- runif(N, min = 0, max = 1) 
+cat("Initial Means:\n", mu, "\n\n")
+
+# Store rewards and means
+rewards <- matrix(0, nrow = T, ncol = N) # Rewards for each arm at each round
+means <- matrix(0, nrow = T, ncol = N)   # Means of each arm at each round
+means[1, ] <- mu # Initial mean
+
+# 2. Reward Generation and 3. Mean Update
+for (t in 1:T) {
+  for (i in 1:N) {
+    # Generate reward from Normal(mu_i(t), sigma^2)
+    rewards[t, i] <- rnorm(1, mean = mu[i], sd = sigma)
+    
+    # Update mean for the next round with Gaussian drift
+    if (t < T) {
+      mu[i] <- mu[i] + rnorm(1, mean = 0, sd = delta)
+      means[t + 1, i] <- mu[i]
+    }
+  }
+}
+
+# Results
+cat("Final Means:\n", mu, "\n\n")
+
+# Optional Visualization
+library(ggplot2)
+rounds <- 1:T
+df <- data.frame(
+  Round = rep(rounds, each = N),
+  Arm = rep(1:N, times = T),
+  Reward = as.vector(rewards),
+  Mean = as.vector(means)
+)
+
+# Plot reward dynamics for each arm
+ggplot(df, aes(x = Round, y = Reward, color = factor(Arm))) +
+  geom_line() +
+  labs(title = "Rewards for Each Arm Over Time",
+       x = "Round", y = "Reward", color = "Arm") +
+  theme_minimal()
+
+# Plot mean dynamics for each arm
+ggplot(df, aes(x = Round, y = Mean, color = factor(Arm))) +
+  geom_line() +
+  labs(title = "Mean for Each Arm Over Time",
+       x = "Round", y = "Mean", color = "Arm") +
+  theme_minimal()
+
+```
+
+
+
+
+
+
+```{r}
+library(Rcpp)
+
+cppFunction('
+NumericMatrix simulate_bandit(int N, int T, double sigma, double delta, NumericVector mu) {
+  NumericMatrix rewards(T, N);
+  NumericMatrix means(T, N);
+  
+  // Initialize the means
+  for (int i = 0; i < N; i++) {
+    means(0, i) = mu[i];
+  }
+  
+  // Simulation loop
+  for (int t = 0; t < T; t++) {
+    for (int i = 0; i < N; i++) {
+      // Generate reward
+      rewards(t, i) = R::rnorm(means(t, i), sigma);
+      
+      // Update mean for the next round
+      if (t < T - 1) {
+        means(t + 1, i) = means(t, i) + R::rnorm(0, delta);
+      }
+    }
+  }
+  
+  // Return the rewards matrix
+  return rewards;
+}
+')
+
+```
+
+
+
+```{r}
+library(microbenchmark)
+microbenchmark(
+  R = {
+    # Original R implementation (loop-based)
+    for (t in 1:T) {
+      for (i in 1:N) {
+        rewards[t, i] <- rnorm(1, mean = mu[i], sd = sigma)
+        if (t < T) {
+          mu[i] <- mu[i] + rnorm(1, mean = 0, sd = delta)
+        }
+      }
+    }
+  },
+  Rcpp = {
+    simulate_bandit(N, T, sigma, delta, mu)
+  },
+  times = 10
+)
+
+```
+
+## Rcpp is faster then R in speed and reduced time in the simulation as seen the above results produced by the two methods.  
+
+
+
+
+
+
+```{r}
+# Load necessary library
+library(Rcpp)
+
+# Define the Rcpp function for the bandit simulation
+cppFunction('
+NumericMatrix simulate_bandit(int N, int T, double sigma, double delta, NumericVector mu) {
+  NumericMatrix rewards(T, N);
+  NumericMatrix means(T, N);
+  
+  // Initialize the means
+  for (int i = 0; i < N; i++) {
+    means(0, i) = mu[i];
+  }
+  
+  // Simulation loop
+  for (int t = 0; t < T; t++) {
+    for (int i = 0; i < N; i++) {
+      // Generate reward
+      rewards(t, i) = R::rnorm(means(t, i), sigma);
+      
+      // Update mean for the next round
+      if (t < T - 1) {
+        means(t + 1, i) = means(t, i) + R::rnorm(0, delta);
+      }
+    }
+  }
+  
+  // Return the rewards matrix
+  return rewards;
+}
+')
+
+# 1. Initialization
+set.seed(123) # For reproducibility
+N <- 5        # Number of arms
+T <- 100      # Number of rounds
+sigma <- 1    # Standard deviation of the rewards
+delta <- 0.1  # Drift standard deviation
+mu <- runif(N, min = 0, max = 1) # Initial means
+
+# 2. Run Simulation Using Rcpp
+rewards_rcpp <- simulate_bandit(N, T, sigma, delta, mu)
+
+# 3. Identify Best Arm
+cumulative_rewards_rcpp <- colSums(rewards_rcpp) # Compute cumulative rewards
+best_arm_rcpp <- which.max(cumulative_rewards_rcpp) # Identify the best arm
+
+# Results
+cat("Cumulative Rewards (Rcpp):\n", cumulative_rewards_rcpp, "\n")
+cat("Best Arm (Rcpp):", best_arm_rcpp, "\n")
+
+# Optional Visualization
+library(ggplot2)
+rounds <- 1:T
+df_rcpp <- data.frame(
+  Round = rep(rounds, each = N),
+  Arm = rep(1:N, times = T),
+  Reward = as.vector(rewards_rcpp)
+)
+
+# Plot reward dynamics for each arm (Rcpp results)
+ggplot(df_rcpp, aes(x = Round, y = Reward, color = factor(Arm))) +
+  geom_line() +
+  labs(title = "Rewards for Each Arm Over Time (Rcpp)",
+       x = "Round", y = "Reward", color = "Arm") +
+  theme_minimal()
+
+```

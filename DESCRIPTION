@@ -1,0 +1,21 @@
+Package: BL22204010
+Title: Final Project for Statistical Computing Course
+Version: 0.0.0.9000
+Authors@R: 
+    person("John Yata Raymond", "Lubari", , "johnyata@mail.ustc.edu.cn", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: AGPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp,
+     boot,
+      coda,ggplot2,
+  microbenchmark
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

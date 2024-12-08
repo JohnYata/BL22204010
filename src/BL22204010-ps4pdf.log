@@ -1,0 +1,1018 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=latex.fmt)
+ restricted \write18 enabled.
+ Source specials enabled.
+entering extended mode
+(BL22204010.dll
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-04-11>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 M
+     Zê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no Z in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê
+       ^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@
+          ^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+
+! LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê^^@^^C
+             ^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@
+                ^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@
+                   ^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@
+                      ^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê^^@^^C^^@^^@^^@^^D
+                         ^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@
+                            ^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@
+                               ^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@
+                                  ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+
+! LaTeX Error: Invalid UTF-8 byte "FF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇ
+                                   ˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+
+! LaTeX Error: Invalid UTF-8 byte "FF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ
+                                    ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@
+                                       ^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@
+                                          ∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+
+! LaTeX Error: Invalid UTF-8 byte "B8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏
+                                           ^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@
+                                              ^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@
+                                                 ^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@
+                                                  ^^@^^@^^@^^@@^^@^^@^^@^^@^...
+
+! Text line contains an invalid character.
+l.1 ...C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@
+                                                  ^^@^^@^^@@^^@^^@^^@^^@^^@^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@
+                                                  ^^@^^@@^^@^^@^^@^^@^^@^^@^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@
+                                                  ^^@@^^@^^@^^@^^@^^@^^@^^@^...
+
+! Text line contains an invalid character.
+l.1 ...@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@
+                                                  @^^@^^@^^@^^@^^@^^@^^@^^@^...
+
+Missing character: There is no @ in font nullfont!
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...^^@@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@Ä^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@Ä^^@^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@Ä^^@^^@^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@Ä^^@^^@^^@^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@Ä^^@^^@^^@^^N^...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@Ä^^@^^@^^@^^N^^_∫...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@Ä^^@^^@^^@^^N^^_∫^^N...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@Ä^^@^^@^^@^^N^^_∫^^N^^@...
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  Ä^^@^^@^^@^^N^^_∫^^N^^@¥	Õ...
+
+
+! LaTeX Error: Invalid UTF-8 byte "80.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä
+                                                  ^^@^^@^^@^^N^^_∫^^N^^@¥	Õ!...
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@
+                                                  ^^@^^@^^N^^_∫^^N^^@¥	Õ!∏^^...
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@
+                                                  ^^@^^N^^_∫^^N^^@¥	Õ!∏^^ALÕ...
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@
+                                                  ^^N^^_∫^^N^^@¥	Õ!∏^^ALÕ!Th...
+
+
+! LaTeX Error: Unicode character ^^N (U+000E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N
+                                                  ^^_∫^^N^^@¥	Õ!∏^^ALÕ!This ...
+
+
+! LaTeX Error: Unicode character ^^_ (U+001F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_
+                                                  ∫^^N^^@¥	Õ!∏^^ALÕ!This pro...
+
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫
+                                                  ^^N^^@¥	Õ!∏^^ALÕ!This prog...
+
+
+! LaTeX Error: Unicode character ^^N (U+000E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N
+                                                  ^^@¥	Õ!∏^^ALÕ!This program...
+
+! Text line contains an invalid character.
+l.1 ...^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@
+                                                  ¥	Õ!∏^^ALÕ!This program ca...
+
+
+! LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@¥
+                                                  	Õ!∏^^ALÕ!This program can...
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Õ!).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@¥	Õ!
+                                                  ∏^^ALÕ!This program cannot...
+
+
+! LaTeX Error: Invalid UTF-8 byte "B8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@¥	Õ!∏
+                                                  ^^ALÕ!This program cannot ...
+
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@¥	Õ!∏^^A
+                                                  LÕ!This program cannot be ...
+
+Missing character: There is no L in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Õ!).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@¥	Õ!∏^^ALÕ!
+                                                  This program cannot be run...
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[][]
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 $
+     ^^@^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@
+        ^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@^^@
+           ^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@
+              ^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@
+                 ^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@
+                    ^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@
+                       ^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@^^@
+                          PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@
+                               ^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@^^@
+                                  dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+
+! LaTeX Error: Invalid UTF-8 byte "86.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ
+                                    ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+
+! LaTeX Error: Unicode character ^^V (U+0016)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V
+                                       ^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@
+                                          ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@
+                                                 ‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+! Text line contains an invalid character.
+l.3 ...^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@
+                                                  lå^^@^^@^^@& ^^B^^B*^^@ˆ...
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (‰lå).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå
+                                                  ^^@^^@^^@& ^^B^^B*^^@ˆ^...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@
+                                                  ^^@^^@& ^^B^^B*^^@ˆ^^@^...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@
+                                                  ^^@& ^^B^^B*^^@ˆ^^@^^@Æ...
+
+! Text line contains an invalid character.
+l.3 ...^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@
+                                                  & ^^B^^B*^^@ˆ^^@^^@Æ^^O^...
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (&^^B).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B
+                                                  ^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^...
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B
+                                                  *^^@ˆ^^@^^@Æ^^O^^@^^@^^T^...
+
+! Text line contains an invalid character.
+l.3 ...^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@
+                                                  ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^...
+
+
+! LaTeX Error: Invalid UTF-8 byte "F6.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ
+                                                  ^^@^^@Æ^^O^^@^^@^^T^^@^^@...
+
+
+! LaTeX Error: Unicode character  (U+000B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ
+                                                  ^^@^^@Æ^^O^^@^^@^^T^^@^^@0...
+
+! Text line contains an invalid character.
+l.3 ...@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@
+                                                  ^^@Æ^^O^^@^^@^^T^^@^^@0^^S...
+
+! Text line contains an invalid character.
+l.3 ...Ug^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@
+                                                  Æ^^O^^@^^@^^T^^@^^@0^^S^^@...
+
+
+! LaTeX Error: Invalid UTF-8 byte "AE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...g^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ
+                                                  ^^O^^@^^@^^T^^@^^@0^^S^^@^...
+
+
+! LaTeX Error: Unicode character ^^O (U+000F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O
+                                                  ^^@^^@^^T^^@^^@0^^S^^@^^@^...
+
+! Text line contains an invalid character.
+l.3 ...^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@
+                                                  ^^@^^T^^@^^@0^^S^^@^^@^^@^...
+
+! Text line contains an invalid character.
+l.3 ...lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@
+                                                  ^^T^^@^^@0^^S^^@^^@^^@^^P^...
+
+
+! LaTeX Error: Unicode character ^^T (U+0014)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T
+                                                  ^^@^^@0^^S^^@^^@^^@^^P^^@^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@
+                                                  ^^@0^^S^^@^^@^^@^^P^^@^^@^...
+
+! Text line contains an invalid character.
+l.3 ...^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@
+                                                  0^^S^^@^^@^^@^^P^^@^^@^^@^...
+
+
+! LaTeX Error: Unicode character ^^S (U+0013)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@‘«...
+
+! Text line contains an invalid character.
+l.3 ...^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@
+                                                  ^^@^^@^^P^^@^^@^^@^^@‘«^^A...
+
+! Text line contains an invalid character.
+l.3 ...^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@^^@
+                                                  ^^@^^P^^@^^@^^@^^@‘«^^A^^@...
+
+! Text line contains an invalid character.
+l.3 ...^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@^^@^^@
+                                                  ^^P^^@^^@^^@^^@‘«^^A^^@^^@...
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@^^@^^@^^P
+                                                  ^^@^^@^^@^^@‘«^^A^^@^^@^^@...
+
+! Text line contains an invalid character.
+l.3 ...^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@^^@^^@^^P^^@
+                                                  ^^@^^@^^@‘«^^A^^@^^@^^@^^@...
+
+! Text line contains an invalid character.
+l.3 ...^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@^^@^^@^^P^^@^^@
+                                                  ^^@^^@‘«^^A^^@^^@^^@^^@^^P...
+
+! Text line contains an invalid character.
+l.3 ...^^O^^@^^@^^T^^@^^@0^^S^^@^^@^^@^^P^^@^^@^^@
+                                                  ^^@‘«^^A^^@^^@^^@^^@^^P^^@...
+
+! Text line contains an invalid character.
+l.3 ...^^@^^@^^T^^@^^@0^^S^^@^^@^^@^^P^^@^^@^^@^^@
+                                                  ‘«^^A^^@^^@^^@^^@^^P^^@^^@...
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (‘«).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^@^^T^^@^^@0^^S^^@^^@^^@^^P^^@^^@^^@^^@‘«
+                                                  ^^A^^@^^@^^@^^@^^P^^@^^@^^...
+
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^T^^@^^@0^^S^^@^^@^^@^^P^^@^^@^^@^^@‘«^^A
+                                                  ^^@^^@^^@^^@^^P^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...T^^@^^@0^^S^^@^^@^^@^^P^^@^^@^^@^^@‘«^^A^^@
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^B^^...
+
+! Text line contains an invalid character.
+l.3 ...@^^@0^^S^^@^^@^^@^^P^^@^^@^^@^^@‘«^^A^^@^^@
+                                                  ^^@^^@^^P^^@^^@^^@^^B^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...@0^^S^^@^^@^^@^^P^^@^^@^^@^^@‘«^^A^^@^^@^^@
+                                                  ^^@^^P^^@^^@^^@^^B^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^S^^@^^@^^@^^P^^@^^@^^@^^@‘«^^A^^@^^@^^@^^@
+                                                  ^^P^^@^^@^^@^^B^^@^^@^^D^^...
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^@^^P^^@^^@^^@^^@‘«^^A^^@^^@^^@^^@^^P
+                                                  ^^@^^@^^@^^B^^@^^@^^D^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^P^^@^^@^^@^^@‘«^^A^^@^^@^^@^^@^^P^^@
+                                                  ^^@^^@^^B^^@^^@^^D^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^P^^@^^@^^@^^@‘«^^A^^@^^@^^@^^@^^P^^@^^@
+                                                  ^^@^^B^^@^^@^^D^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^P^^@^^@^^@^^@‘«^^A^^@^^@^^@^^@^^P^^@^^@^^@
+                                                  ^^B^^@^^@^^D^^@^^@^^@^^@^^...
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^@^^@‘«^^A^^@^^@^^@^^@^^P^^@^^@^^@^^B
+                                                  ^^@^^@^^D^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^@‘«^^A^^@^^@^^@^^@^^P^^@^^@^^@^^B^^@
+                                                  ^^@^^D^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^@‘«^^A^^@^^@^^@^^@^^P^^@^^@^^@^^B^^@^^@
+                                                  ^^D^^@^^@^^@^^@^^@^^@^^@^^...
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@‘«^^A^^@^^@^^@^^@^^P^^@^^@^^@^^B^^@^^@^^D
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^E^^...
+
+! Text line contains an invalid character.
+l.3 ...«^^A^^@^^@^^@^^@^^P^^@^^@^^@^^B^^@^^@^^D^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^E^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...A^^@^^@^^@^^@^^P^^@^^@^^@^^B^^@^^@^^D^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^E^^@^^B^^...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^@^^P^^@^^@^^@^^B^^@^^@^^D^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^E^^@^^B^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^P^^@^^@^^@^^B^^@^^@^^D^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^E^^@^^B^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^P^^@^^@^^@^^B^^@^^@^^D^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^E^^@^^B^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...@^^P^^@^^@^^@^^B^^@^^@^^D^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^E^^@^^B^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...P^^@^^@^^@^^B^^@^^@^^D^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^E^^@^^B^^@^^@^^@^^@^^@^^...
+
+
+! LaTeX Error: Unicode character ^^E (U+0005)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^@^^@^^B^^@^^@^^D^^@^^@^^@^^@^^@^^@^^@^^E
+                                                  ^^@^^B^^@^^@^^@^^@^^@^^@–!...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^B^^@^^@^^D^^@^^@^^@^^@^^@^^@^^@^^E^^@
+                                                  ^^B^^@^^@^^@^^@^^@^^@–!^^@...
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^B^^@^^@^^D^^@^^@^^@^^@^^@^^@^^@^^E^^@^^B
+                                                  ^^@^^@^^@^^@^^@^^@–!^^@^^@...
+
+! Text line contains an invalid character.
+l.3 ...B^^@^^@^^D^^@^^@^^@^^@^^@^^@^^@^^E^^@^^B^^@
+                                                  ^^@^^@^^@^^@^^@–!^^@^^@^^F...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^D^^@^^@^^@^^@^^@^^@^^@^^E^^@^^B^^@^^@
+                                                  ^^@^^@^^@^^@–!^^@^^@^^F^^@...
+
+! Text line contains an invalid character.
+l.3 ...@^^D^^@^^@^^@^^@^^@^^@^^@^^E^^@^^B^^@^^@^^@
+                                                  ^^@^^@^^@–!^^@^^@^^F^^@^^@...
+
+! Text line contains an invalid character.
+l.3 ...D^^@^^@^^@^^@^^@^^@^^@^^E^^@^^B^^@^^@^^@^^@
+                                                  ^^@^^@–!^^@^^@^^F^^@^^@SX<...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^@^^@^^@^^@^^E^^@^^B^^@^^@^^@^^@^^@
+                                                  ^^@–!^^@^^@^^F^^@^^@SX<^^@...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^@^^@^^@^^E^^@^^B^^@^^@^^@^^@^^@^^@
+                                                  –!^^@^^@^^F^^@^^@SX<^^@^^C...
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (–!).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^@^^@^^@^^E^^@^^B^^@^^@^^@^^@^^@^^@–!
+                                                  ^^@^^@^^F^^@^^@SX<^^@^^C^^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^@^^@^^E^^@^^B^^@^^@^^@^^@^^@^^@–!^^@
+                                                  ^^@^^F^^@^^@SX<^^@^^C^^@`^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^@^^E^^@^^B^^@^^@^^@^^@^^@^^@–!^^@^^@
+                                                  ^^F^^@^^@SX<^^@^^C^^@`^^A^...
+
+
+! LaTeX Error: Unicode character ^^F (U+0006)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^E^^@^^B^^@^^@^^@^^@^^@^^@–!^^@^^@^^F
+                                                  ^^@^^@SX<^^@^^C^^@`^^A^^@^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^E^^@^^B^^@^^@^^@^^@^^@^^@–!^^@^^@^^F^^@
+                                                  ^^@SX<^^@^^C^^@`^^A^^@^^@ ...
+
+! Text line contains an invalid character.
+l.3 ...^E^^@^^B^^@^^@^^@^^@^^@^^@–!^^@^^@^^F^^@^^@
+                                                  SX<^^@^^C^^@`^^A^^@^^@ ^^@...
+
+! Text line contains an invalid character.
+l.3 ...^B^^@^^@^^@^^@^^@^^@–!^^@^^@^^F^^@^^@SX<^^@
+                                                  ^^C^^@`^^A^^@^^@ ^^@^^@^^@...
+
+
+! LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^@^^@^^@^^@–!^^@^^@^^F^^@^^@SX<^^@^^C
+                                                  ^^@`^^A^^@^^@ ^^@^^@^^@^^@...
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^@^^@^^@–!^^@^^@^^F^^@^^@SX<^^@^^C^^@
+                                                  `^^A^^@^^@ ^^@^^@^^@^^@^^@...
+
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^@^^@^^@–!^^@^^@^^F^^@^^@SX<^^@^^C^^@`^^A
+                                                  ^^@^^@ ^^@^^@^^@^^@^^@^^@^...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@–!^^@^^@^^F^^@^^@SX<^^@^^C^^@`^^A^^@
+                                                  ^^@ ^^@^^@^^@^^@^^@^^@^^P^...
+
+! Text line contains an invalid character.
+l.3 ...@^^@–!^^@^^@^^F^^@^^@SX<^^@^^C^^@`^^A^^@^^@
+                                                   ^^@^^@^^@^^@^^@^^@^^P^^@^...
+
+! Text line contains an invalid character.
+l.3 ...–!^^@^^@^^F^^@^^@SX<^^@^^C^^@`^^A^^@^^@ ^^@
+                                                  ^^@^^@^^@^^@^^@^^P^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^F^^@^^@SX<^^@^^C^^@`^^A^^@^^@ ^^@^^@
+                                                  ^^@^^@^^@^^@^^P^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^F^^@^^@SX<^^@^^C^^@`^^A^^@^^@ ^^@^^@^^@
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^F^^@^^@SX<^^@^^C^^@`^^A^^@^^@ ^^@^^@^^@^^@
+                                                  ^^@^^@^^P^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^@SX<^^@^^C^^@`^^A^^@^^@ ^^@^^@^^@^^@^^@
+                                                  ^^@^^P^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^@SX<^^@^^C^^@`^^A^^@^^@ ^^@^^@^^@^^@^^@^^@
+                                                  ^^P^^@^^@^^@^^@^^@^^@^^@^^...
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...X<^^@^^C^^@`^^A^^@^^@ ^^@^^@^^@^^@^^@^^@^^P
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^@^^C^^@`^^A^^@^^@ ^^@^^@^^@^^@^^@^^@^^P^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^P^^...
+
+! Text line contains an invalid character.
+l.3 ...^C^^@`^^A^^@^^@ ^^@^^@^^@^^@^^@^^@^^P^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^P^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^@`^^A^^@^^@ ^^@^^@^^@^^@^^@^^@^^P^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^P^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^^A^^@^^@ ^^@^^@^^@^^@^^@^^@^^P^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^P^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^^@^^@ ^^@^^@^^@^^@^^@^^@^^P^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...^^@ ^^@^^@^^@^^@^^@^^@^^P^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^P^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ... ^^@^^@^^@^^@^^@^^@^^P^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^P^^@^^@^^@^^@^^@^^@^^...
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^@^^@^^@^^P^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^P^^@^^@^^@^^@^^@^^@^^P^^...
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^@^^@^^@^^@^^P^^@^^@^^@^^@^^@^^@^^@^^@^^P
+                                                  ^^@^^@^^@^^@^^@^^@^^P^^@^^...
+(That makes 100 errors; please try again.)
+No pages of output.
+Transcript written on BL22204010.log.

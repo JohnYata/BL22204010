@@ -1,0 +1,1469 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=latex 2024.11.25)  8 DEC 2024 12:56
+entering extended mode
+ restricted \write18 enabled.
+ Source specials enabled.
+ %&-line parsing enabled.
+**./BL22204010.dll
+(BL22204010.dll
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-04-11>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 M
+     Zê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no Z in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê
+       ^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+! Text line contains an invalid character.
+l.1 MZê^^@
+          ^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê^^@^^C
+             ^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@
+                ^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@
+                   ^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@
+                      ^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê^^@^^C^^@^^@^^@^^D
+                         ^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@
+                            ^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@
+                               ^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@
+                                  ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte "FF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇ
+                                   ˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "FF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ
+                                    ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@
+                                       ^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@
+                                          ∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte "B8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏
+                                           ^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@
+                                              ^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 MZê^^@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@
+                                                 ^^@^^@^^@^^@^^@@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@
+                                                  ^^@^^@^^@^^@@^^@^^@^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...C^^@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@
+                                                  ^^@^^@^^@@^^@^^@^^@^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@
+                                                  ^^@^^@@^^@^^@^^@^^@^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@
+                                                  ^^@@^^@^^@^^@^^@^^@^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^D^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@
+                                                  @^^@^^@^^@^^@^^@^^@^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no @ in font nullfont!
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...ˇˇ^^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^@^^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^@∏^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@Ä^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@Ä^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@Ä^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@Ä^^@^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@Ä^^@^^@^^@^^N^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@Ä^^@^^@^^@^^N^^_∫...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@Ä^^@^^@^^@^^N^^_∫^^N...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@Ä^^@^^@^^@^^N^^_∫^^N^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  Ä^^@^^@^^@^^N^^_∫^^N^^@¥	Õ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte "80.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä
+                                                  ^^@^^@^^@^^N^^_∫^^N^^@¥	Õ!...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@
+                                                  ^^@^^@^^N^^_∫^^N^^@¥	Õ!∏^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@
+                                                  ^^@^^N^^_∫^^N^^@¥	Õ!∏^^ALÕ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@
+                                                  ^^N^^_∫^^N^^@¥	Õ!∏^^ALÕ!Th...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^N (U+000E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N
+                                                  ^^_∫^^N^^@¥	Õ!∏^^ALÕ!This ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ^^_ (U+001F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_
+                                                  ∫^^N^^@¥	Õ!∏^^ALÕ!This pro...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^@^^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫
+                                                  ^^N^^@¥	Õ!∏^^ALÕ!This prog...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^N (U+000E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^@^^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N
+                                                  ^^@¥	Õ!∏^^ALÕ!This program...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.1 ...^@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@
+                                                  ¥	Õ!∏^^ALÕ!This program ca...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...@^^@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@¥
+                                                  	Õ!∏^^ALÕ!This program can...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Õ!).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...@^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@¥	Õ!
+                                                  ∏^^ALÕ!This program cannot...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "B8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@¥	Õ!∏
+                                                  ^^ALÕ!This program cannot ...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@¥	Õ!∏^^A
+                                                  LÕ!This program cannot be ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no L in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Õ!).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...^^@^^@^^@Ä^^@^^@^^@^^N^^_∫^^N^^@¥	Õ!∏^^ALÕ!
+                                                  This program cannot be run...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[][]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 $
+     ^^@^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Text line contains an invalid character.
+l.3 $^^@
+        ^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 $^^@^^@
+           ^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@
+              ^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@
+                 ^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@
+                    ^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@
+                       ^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@^^@
+                          PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@
+                               ^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@^^@
+                                  dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte "86.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ
+                                    ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^V (U+0016)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V
+                                       ^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@
+                                          ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 $^^@^^@^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@
+                                                 ‰ ^^@lå^^@^^@^^@& ^^B^^B*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@
+                                                  lå^^@^^@^^@& ^^B^^B*^^@ˆ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (‰lå).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå
+                                                  ^^@^^@^^@& ^^B^^B*^^@ˆ^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@
+                                                  ^^@^^@& ^^B^^B*^^@ˆ^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@
+                                                  ^^@& ^^B^^B*^^@ˆ^^@^^@Æ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^@PE^^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@
+                                                  & ^^B^^B*^^@ˆ^^@^^@Æ^^O^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (&^^B).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B
+                                                  ^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@dÜ^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B
+                                                  *^^@ˆ^^@^^@Æ^^O^^@^^@^^T^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...^^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@
+                                                  ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte "F6.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ
+                                                  ^^@^^@Æ^^O^^@^^@^^T^^@^^@...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character  (U+000B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...V^^@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ
+                                                  ^^@^^@Æ^^O^^@^^@^^T^^@^^@0...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...@ClUg^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@
+                                                  ^^@Æ^^O^^@^^@^^T^^@^^@0^^S...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...Ug^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@
+                                                  Æ^^O^^@^^@^^T^^@^^@0^^S^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte "AE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...g^^@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ
+                                                  ^^O^^@^^@^^T^^@^^@0^^S^^@^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^O (U+000F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@‰ ^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O
+                                                  ^^@^^@^^T^^@^^@0^^S^^@^^@^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...^^@lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@
+                                                  ^^@^^T^^@^^@0^^S^^@^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...lå^^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@
+                                                  ^^T^^@^^@0^^S^^@^^@^^@^^P^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^T (U+0014)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T
+                                                  ^^@^^@0^^S^^@^^@^^@^^P^^@^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...^@^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@
+                                                  ^^@0^^S^^@^^@^^@^^P^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^@& ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@
+                                                  0^^S^^@^^@^^@^^P^^@^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^S (U+0013)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ... ^^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@‘«...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...^B^^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@
+                                                  ^^@^^@^^P^^@^^@^^@^^@‘«^^A...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^B*^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@^^@
+                                                  ^^@^^P^^@^^@^^@^^@‘«^^A^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^@ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@^^@^^@
+                                                  ^^P^^@^^@^^@^^@‘«^^A^^@^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ˆ^^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@^^@^^@^^P
+                                                  ^^@^^@^^@^^@‘«^^A^^@^^@^^@...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...^@^^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@^^@^^@^^P^^@
+                                                  ^^@^^@^^@‘«^^A^^@^^@^^@^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^@Æ^^O^^@^^@^^T^^@^^@0^^S^^@^^@^^@^^P^^@^^@
+                                                  ^^@^^@‘«^^A^^@^^@^^@^^@^^P...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^O^^@^^@^^T^^@^^@0^^S^^@^^@^^@^^P^^@^^@^^@
+                                                  ^^@‘«^^A^^@^^@^^@^^@^^P^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^@^^@^^T^^@^^@0^^S^^@^^@^^@^^P^^@^^@^^@^^@
+                                                  ‘«^^A^^@^^@^^@^^@^^P^^@^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (‘«).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^@^^T^^@^^@0^^S^^@^^@^^@^^P^^@^^@^^@^^@‘«
+                                                  ^^A^^@^^@^^@^^@^^P^^@^^@^^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^T^^@^^@0^^S^^@^^@^^@^^P^^@^^@^^@^^@‘«^^A
+                                                  ^^@^^@^^@^^@^^P^^@^^@^^@^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...T^^@^^@0^^S^^@^^@^^@^^P^^@^^@^^@^^@‘«^^A^^@
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^B^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@0^^S^^@^^@^^@^^P^^@^^@^^@^^@‘«^^A^^@^^@
+                                                  ^^@^^@^^P^^@^^@^^@^^B^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@0^^S^^@^^@^^@^^P^^@^^@^^@^^@‘«^^A^^@^^@^^@
+                                                  ^^@^^P^^@^^@^^@^^B^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^S^^@^^@^^@^^P^^@^^@^^@^^@‘«^^A^^@^^@^^@^^@
+                                                  ^^P^^@^^@^^@^^B^^@^^@^^D^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^@^^P^^@^^@^^@^^@‘«^^A^^@^^@^^@^^@^^P
+                                                  ^^@^^@^^@^^B^^@^^@^^D^^@^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^P^^@^^@^^@^^@‘«^^A^^@^^@^^@^^@^^P^^@
+                                                  ^^@^^@^^B^^@^^@^^D^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^@^^P^^@^^@^^@^^@‘«^^A^^@^^@^^@^^@^^P^^@^^@
+                                                  ^^@^^B^^@^^@^^D^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^P^^@^^@^^@^^@‘«^^A^^@^^@^^@^^@^^P^^@^^@^^@
+                                                  ^^B^^@^^@^^D^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^@^^@‘«^^A^^@^^@^^@^^@^^P^^@^^@^^@^^B
+                                                  ^^@^^@^^D^^@^^@^^@^^@^^@^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^@‘«^^A^^@^^@^^@^^@^^P^^@^^@^^@^^B^^@
+                                                  ^^@^^D^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^@^^@‘«^^A^^@^^@^^@^^@^^P^^@^^@^^@^^B^^@^^@
+                                                  ^^D^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^D (U+0004)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@‘«^^A^^@^^@^^@^^@^^P^^@^^@^^@^^B^^@^^@^^D
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^E^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...«^^A^^@^^@^^@^^@^^P^^@^^@^^@^^B^^@^^@^^D^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^E^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...A^^@^^@^^@^^@^^P^^@^^@^^@^^B^^@^^@^^D^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^E^^@^^B^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^@^^P^^@^^@^^@^^B^^@^^@^^D^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^E^^@^^B^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^P^^@^^@^^@^^B^^@^^@^^D^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^E^^@^^B^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^P^^@^^@^^@^^B^^@^^@^^D^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^E^^@^^B^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^P^^@^^@^^@^^B^^@^^@^^D^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^E^^@^^B^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...P^^@^^@^^@^^B^^@^^@^^D^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^E^^@^^B^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^E (U+0005)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^@^^@^^B^^@^^@^^D^^@^^@^^@^^@^^@^^@^^@^^E
+                                                  ^^@^^B^^@^^@^^@^^@^^@^^@–!...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^B^^@^^@^^D^^@^^@^^@^^@^^@^^@^^@^^E^^@
+                                                  ^^B^^@^^@^^@^^@^^@^^@–!^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^B^^@^^@^^D^^@^^@^^@^^@^^@^^@^^@^^E^^@^^B
+                                                  ^^@^^@^^@^^@^^@^^@–!^^@^^@...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...B^^@^^@^^D^^@^^@^^@^^@^^@^^@^^@^^E^^@^^B^^@
+                                                  ^^@^^@^^@^^@^^@–!^^@^^@^^F...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^D^^@^^@^^@^^@^^@^^@^^@^^E^^@^^B^^@^^@
+                                                  ^^@^^@^^@^^@–!^^@^^@^^F^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^D^^@^^@^^@^^@^^@^^@^^@^^E^^@^^B^^@^^@^^@
+                                                  ^^@^^@^^@–!^^@^^@^^F^^@^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...D^^@^^@^^@^^@^^@^^@^^@^^E^^@^^B^^@^^@^^@^^@
+                                                  ^^@^^@–!^^@^^@^^F^^@^^@SX<...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^@^^@^^@^^@^^E^^@^^B^^@^^@^^@^^@^^@
+                                                  ^^@–!^^@^^@^^F^^@^^@SX<^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^@^^@^^@^^E^^@^^B^^@^^@^^@^^@^^@^^@
+                                                  –!^^@^^@^^F^^@^^@SX<^^@^^C...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (–!).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^@^^@^^@^^E^^@^^B^^@^^@^^@^^@^^@^^@–!
+                                                  ^^@^^@^^F^^@^^@SX<^^@^^C^^...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^@^^@^^E^^@^^B^^@^^@^^@^^@^^@^^@–!^^@
+                                                  ^^@^^F^^@^^@SX<^^@^^C^^@`^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^@^^E^^@^^B^^@^^@^^@^^@^^@^^@–!^^@^^@
+                                                  ^^F^^@^^@SX<^^@^^C^^@`^^A^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^F (U+0006)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^E^^@^^B^^@^^@^^@^^@^^@^^@–!^^@^^@^^F
+                                                  ^^@^^@SX<^^@^^C^^@`^^A^^@^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...^@^^E^^@^^B^^@^^@^^@^^@^^@^^@–!^^@^^@^^F^^@
+                                                  ^^@SX<^^@^^C^^@`^^A^^@^^@ ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^E^^@^^B^^@^^@^^@^^@^^@^^@–!^^@^^@^^F^^@^^@
+                                                  SX<^^@^^C^^@`^^A^^@^^@ ^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^B^^@^^@^^@^^@^^@^^@–!^^@^^@^^F^^@^^@SX<^^@
+                                                  ^^C^^@`^^A^^@^^@ ^^@^^@^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...^@^^@^^@^^@^^@^^@–!^^@^^@^^F^^@^^@SX<^^@^^C
+                                                  ^^@`^^A^^@^^@ ^^@^^@^^@^^@...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^@^^@^^@–!^^@^^@^^F^^@^^@SX<^^@^^C^^@
+                                                  `^^A^^@^^@ ^^@^^@^^@^^@^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^@^^@^^@–!^^@^^@^^F^^@^^@SX<^^@^^C^^@`^^A
+                                                  ^^@^^@ ^^@^^@^^@^^@^^@^^@^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@–!^^@^^@^^F^^@^^@SX<^^@^^C^^@`^^A^^@
+                                                  ^^@ ^^@^^@^^@^^@^^@^^@^^P^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@–!^^@^^@^^F^^@^^@SX<^^@^^C^^@`^^A^^@^^@
+                                                   ^^@^^@^^@^^@^^@^^@^^P^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...–!^^@^^@^^F^^@^^@SX<^^@^^C^^@`^^A^^@^^@ ^^@
+                                                  ^^@^^@^^@^^@^^@^^P^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^F^^@^^@SX<^^@^^C^^@`^^A^^@^^@ ^^@^^@
+                                                  ^^@^^@^^@^^@^^P^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^@^^F^^@^^@SX<^^@^^C^^@`^^A^^@^^@ ^^@^^@^^@
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^F^^@^^@SX<^^@^^C^^@`^^A^^@^^@ ^^@^^@^^@^^@
+                                                  ^^@^^@^^P^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^@^^@SX<^^@^^C^^@`^^A^^@^^@ ^^@^^@^^@^^@^^@
+                                                  ^^@^^P^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^@SX<^^@^^C^^@`^^A^^@^^@ ^^@^^@^^@^^@^^@^^@
+                                                  ^^P^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...X<^^@^^C^^@`^^A^^@^^@ ^^@^^@^^@^^@^^@^^@^^P
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Text line contains an invalid character.
+l.3 ...^@^^C^^@`^^A^^@^^@ ^^@^^@^^@^^@^^@^^@^^P^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^P^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^C^^@`^^A^^@^^@ ^^@^^@^^@^^@^^@^^@^^P^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^P^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^@`^^A^^@^^@ ^^@^^@^^@^^@^^@^^@^^P^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^P^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^A^^@^^@ ^^@^^@^^@^^@^^@^^@^^P^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^P^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^@^^@ ^^@^^@^^@^^@^^@^^@^^P^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^P^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^@ ^^@^^@^^@^^@^^@^^@^^P^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^P^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ... ^^@^^@^^@^^@^^@^^@^^P^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^P^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^@^^@^^@^^P^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^P^^@^^@^^@^^@^^@^^@^^P^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...@^^@^^@^^@^^@^^P^^@^^@^^@^^@^^@^^@^^@^^@^^P
+                                                  ^^@^^@^^@^^@^^@^^@^^P^^@^^...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 25 strings out of 474371
+ 652 string characters out of 5736784
+ 1925751 words of memory out of 5000000
+ 22525 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,1n,20p,222b,57s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.
